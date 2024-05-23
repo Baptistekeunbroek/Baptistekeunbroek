@@ -14,8 +14,8 @@
 <br>
 
 ### 	:speech_balloon: About Me :
-I am a french student :fr: 
-- At <a href="https://www.efrei.fr/?gclid=Cj0KCQjw48OaBhDWARIsAMd966BE9TdUlLAqJ6iRU67C7ElhnEIzam7l8JqzL1zwXNKoTYRx4jzq_EsaAkvzEALw_wcB">Efrei Paris </a> currently in my last year of master in software engineering.
+I am a french software engineer :fr: 
+- I have master from <a href="https://www.efrei.fr/?gclid=Cj0KCQjw48OaBhDWARIsAMd966BE9TdUlLAqJ6iRU67C7ElhnEIzam7l8JqzL1zwXNKoTYRx4jzq_EsaAkvzEALw_wcB">Efrei Paris </a> 
 - :computer: I enjoy programming in many languages.
 - :speaking_head: I speak French as it is my mother tongue, English fluently and I'm a beginner in Norwegian.
 
