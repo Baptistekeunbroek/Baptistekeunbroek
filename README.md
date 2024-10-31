@@ -19,5 +19,5 @@ I am a french software engineer :fr:
 - :computer: I enjoy programming in many languages.
 - :speaking_head: I speak French as it is my mother tongue, English fluently and I'm a beginner in Norwegian.
 
-You can find all the information about me <a href="https://www.linkedin.com/in/baptiste-keunebroek-95a2ab194/details/featured/1718367021121/single-media-viewer/?profileId=ACoAAC2bEZYBT2qQCet0nr_jx_Rm0Qew2kyGX5I"> here </a> on my resume. <br>
+You can find all the information about me <a href="https://www.linkedin.com/in/baptiste-keunebroek-95a2ab194/details/featured/1727957620145/single-media-viewer/?profileId=ACoAAC2bEZYBT2qQCet0nr_jx_Rm0Qew2kyGX5I"> here </a> on my resume. <br>
 Feel free to contact me for any other question!
