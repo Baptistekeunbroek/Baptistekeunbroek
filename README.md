@@ -32,8 +32,7 @@ I love designing scalable architectures, experimenting with new technologies, an
 
 🎓 Graduated from [**Efrei Paris**](https://www.efrei.fr)  
 💬 I speak **French (native)**, **English (fluent)**, and I’m learning **Norwegian 🇳🇴**  
-🌱 Currently improving my **React Native** and **AI integration** skills  
-🎮 I’m also developing a **political simulation game** and an **app for service booking with Firebase & Next.js**
+🌱 Currently building the coolest **voice agents** with **Corafone** !
 
 📄 You can find my resume [**here**](https://www.linkedin.com/in/baptiste-keunebroek-95a2ab194/details/featured/1732271353691/single-media-viewer/?profileId=ACoAAC2bEZYBT2qQCet0nr_jx_Rm0Qew2kyGX5I)  
 📫 Feel free to reach out — I’m always open to new collaborations!
